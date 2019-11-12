@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5863d3f6b09739048a1a22a8a25faadc, type: 3}
+  m_Name: PPlast
+  m_EditorClassIdentifier: 
+  Name: Electric Engine
+  Description: the most ecological alternative from all engines, simply the best :D
+  Type: 2
+  ShopIcon: {fileID: 21300000, guid: b1b92a8ea1c1b1d40a83947bc81a5b6c, type: 3}
+  ShopPreview: {fileID: 21300000, guid: ea91038a39275bd4596da91b3825f2e5, type: 3}
+  TechIcon: {fileID: 21300000, guid: b1b92a8ea1c1b1d40a83947bc81a5b6c, type: 3}
+  GameSprite: {fileID: 21300000, guid: 897f121850d3efa419d2443e3e2d7247, type: 3}
+  MoveClip: {fileID: 8300000, guid: 1b5c5b7d995450e48858fedf55cf4766, type: 3}
+  SuccessRateChange: 5
+  SpeedChange: 5
+  MaxLoadChange: 50
+  RewardMultiplier: 0
+  Researched: 0
+  Unlocked: 0
+  Price: 100000

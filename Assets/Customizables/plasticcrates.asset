@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5863d3f6b09739048a1a22a8a25faadc, type: 3}
+  m_Name: plasticcrates
+  m_EditorClassIdentifier: 
+  Name: Plastic crates
+  Description: way lighter then their metal predecessors, which allows for more cargo
+    and interesting new technologies...
+  Type: 3
+  ShopIcon: {fileID: 0}
+  ShopPreview: {fileID: 0}
+  TechIcon: {fileID: 21300000, guid: de7bfdc4d7a12b14ca594131bdf36846, type: 3}
+  GameSprite: {fileID: 0}
+  MoveClip: {fileID: 0}
+  SuccessRateChange: 0
+  SpeedChange: 0
+  MaxLoadChange: 10
+  RewardMultiplier: 0
+  Researched: 0
+  Unlocked: 0
+  Price: 0

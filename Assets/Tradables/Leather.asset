@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c96c2ec75998b442a04953a8183602e, type: 3}
+  m_Name: Leather
+  m_EditorClassIdentifier: 
+  Name: Leather
+  Icon: {fileID: 21300000, guid: c4ccfa3c2c85d2c4992cf1ca0799c972, type: 3}
+  PricePerTon: 1.2
+  ProductionRate: 8
+  ConsumedPerPerson: 5

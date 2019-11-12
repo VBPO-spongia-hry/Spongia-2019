@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5863d3f6b09739048a1a22a8a25faadc, type: 3}
+  m_Name: PVesla
+  m_EditorClassIdentifier: 
+  Name: Paddles
+  Description: cheap, but the slowest :(
+  Type: 2
+  ShopIcon: {fileID: 21300000, guid: d0d3b153a3918824ca01a19b9947a6b1, type: 3}
+  ShopPreview: {fileID: 21300000, guid: e2f71d1d3d1fe7e47b84c684965c583f, type: 3}
+  TechIcon: {fileID: 21300000, guid: d0d3b153a3918824ca01a19b9947a6b1, type: 3}
+  GameSprite: {fileID: 21300000, guid: 4ce82123d0a9c4143baa07fffac504bb, type: 3}
+  MoveClip: {fileID: 0}
+  SuccessRateChange: 1
+  SpeedChange: 1
+  MaxLoadChange: 10
+  RewardMultiplier: 0
+  Researched: 1
+  Unlocked: 1
+  Price: 100

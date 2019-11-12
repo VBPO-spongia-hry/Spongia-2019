@@ -1,0 +1,9 @@
+Názov tímu: !.+?
+Názov hry: Naval transport simulator
+Vývojové prostredie a prostriedky: C#, Unity
+
+Obrázky:
+100% nami vytvoreny pixelart 
+
+Hudba:
+Hudobný a editovací talent Mateja Ziga

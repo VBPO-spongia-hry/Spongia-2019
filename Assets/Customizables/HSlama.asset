@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5863d3f6b09739048a1a22a8a25faadc, type: 3}
+  m_Name: HSlama
+  m_EditorClassIdentifier: 
+  Name: Straw Boat
+  Description: It may not sink instantly, but don't rely on it too much
+  Type: 0
+  ShopIcon: {fileID: 21300000, guid: 224d7d365c6919e4c89924f8fe4e8d5c, type: 3}
+  ShopPreview: {fileID: 21300000, guid: aba32c4bc48558043a97f27848cb3d6e, type: 3}
+  TechIcon: {fileID: 21300000, guid: 224d7d365c6919e4c89924f8fe4e8d5c, type: 3}
+  GameSprite: {fileID: 21300000, guid: 9d041849fb771d24a9e639c8ac3e17d0, type: 3}
+  MoveClip: {fileID: 0}
+  SuccessRateChange: 1
+  SpeedChange: 0
+  MaxLoadChange: 10
+  RewardMultiplier: 0
+  Researched: 1
+  Unlocked: 1
+  Price: 200
