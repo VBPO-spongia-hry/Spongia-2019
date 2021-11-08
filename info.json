@@ -1,0 +1,19 @@
+{
+	"name": "Naval Transport Simulator",
+	"icon": "https://github.com/VBPO-spongia-hry/Spongia-2019/blob/master/icon.png?raw=true",
+	"description": "https://raw.githubusercontent.com/VBPO-spongia-hry/Spongia-2019/master/README.md",
+	"version": "1.0.0",
+	"screenshots": [
+		"https://github.com/VBPO-spongia-hry/Spongia-2019/blob/master/Screenshots/2019-11-04%2008_45_12-Naval%20Transport%20Simulator.png?raw=true",
+		"https://github.com/VBPO-spongia-hry/Spongia-2019/blob/master/Screenshots/2019-11-04%2008_46_22-Naval%20Transport%20Simulator.png?raw=true",
+    "https://github.com/VBPO-spongia-hry/Spongia-2019/blob/master/Screenshots/2019-11-04%2008_47_02-Naval%20Transport%20Simulator.png?raw=true",
+    "https://github.com/VBPO-spongia-hry/Spongia-2019/blob/master/Screenshots/2019-11-04%2008_48_11-Naval%20Transport%20Simulator.png?raw=true",
+    "https://github.com/VBPO-spongia-hry/Spongia-2019/blob/master/Screenshots/2019-11-04%2008_49_22-Naval%20Transport%20Simulator.png?raw=true",
+    "https://github.com/VBPO-spongia-hry/Spongia-2019/blob/master/Screenshots/2019-11-04%2016_23_00-Naval%20Transport%20Simulator.png?raw=true"
+	],
+	"trailer": "https://smnd.sk/stanko/spongia/Trailer.mp4",
+	"downloads": {
+		"linux": "https://github.com/VBPO-spongia-hry/Spongia-2019/releases/download/Main/Build-linux.zip",
+		"windows": "https://github.com/VBPO-spongia-hry/Spongia-2019/releases/download/Main/Build-win32.zip"
+	}
+}
